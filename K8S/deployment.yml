@@ -16,4 +16,4 @@ spec:
       - name: hotstar
         image: teluguvenkata33/project:latest
         ports:
-        - containerPort: 3200  # Port your application listens on
+        - containerPort: 3300  # Port your application listens on
